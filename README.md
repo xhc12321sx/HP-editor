@@ -1,5 +1,6 @@
 # HP-editor
-
+For Audio book of Harry Potter series by Jim Dale
+Construct chapter files  
 Requirements: 
 pydub, re, os
 
